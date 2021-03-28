@@ -2,7 +2,7 @@
 - I’m interested in game making
 - I’m currently learning gdscript and python
 
-[web](http://mobilex1122.github.io/)
+[web](http://www.mobilex1122.eu/)
 
 [itch](https://mobilex1122.itch.io/)
 
