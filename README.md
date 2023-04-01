@@ -2,13 +2,13 @@
 - I’m interested in game making
 - I’m currently learning gdscript and python
 
-[web](http://www.mobilex1122.eu/)
+[Web](http://www.mobilex1122.eu/)
 
 [Buymeacoffee](https://buymeacoffee.com/mobilex1122)
 
-[itch](https://mobilex1122.itch.io/)
+[Games I made](https://mobilex1122.eu/games/)
 
-[deviantart](https://www.deviantart.com/mobilex1122)
+[Image Gallery](https://gallery.mobilex1122.eu/)
 
 <!---
 mobilex1122/mobilex1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
