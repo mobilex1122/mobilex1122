@@ -4,10 +4,6 @@
 
 [Web](http://www.mobilex1122.eu/)
 
-[Buymeacoffee](https://buymeacoffee.com/mobilex1122)
-
-[Games I made](https://mobilex1122.eu/games/)
-
 [Image Gallery](https://gallery.mobilex1122.eu/)
 
 <!---
