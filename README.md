@@ -1,4 +1,4 @@
-![Animation](./test.svg)
+![Animation](./logo.svg)
 
 [![Web](./web.png)](http://www.mobilex1122.eu/)
 [![Gallery](./gallery.png)](https://gallery.mobilex1122.eu/)
