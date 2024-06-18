@@ -11,6 +11,7 @@
             h1 {
                 padding: 0 10px;
                 font-family: sans;
+                transform: translateX(10%);
                 animation: showtitle 1s 1s forwards;
                 opacity:0;
             }
@@ -29,6 +30,7 @@
             @keyframes showtitle {
                 to {
                     opacity: 1;
+                    transform: translateX(0%);
                 }
             }
 
