@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/mobilex1122"><img src="https://api.daily.dev/devcards/v2/tT4mMZK7hDxJXw6jtDyNe.png?type=wide&r=eed" width="652" alt="Jan Palma's Dev Card"/></a>
+
 - Hi, I’m @mobilex1122
 - I’m interested in game making
 - I’m currently learning gdscript and python
