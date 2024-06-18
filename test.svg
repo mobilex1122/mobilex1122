@@ -3,20 +3,38 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             h1 {
-                color: red;
-                animation: mymove 2s infinite;
+                padding: 0 10px;
+                font-family: sans;
+                animation: showtitle 1s 1s forwards;
+                opacity:0;
             }
 
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
+            .lang {
+                padding: 0 10px;
+                font-family: sans;
+                display: inline-block;
+                transform: translateX(100%);
+                position: relative;
+                opacity:0;
+                animation: showlang 1s forwards;
+               
+            }
+
+            @keyframes showtitle {
                 to {
-                    color: yellow;
+                    opacity: 1;
+                }
+            }
+
+             @keyframes showlang {
+                to {
+                    opacity: 1;
+                    transform: translateX(0%);
                 }
             }
             </style>
-            <h1>Hello Test</h1>
+            <h1>Jan Palma</h1>
+            <code class="lang" style="animation-delay:1.5s">JS</code><code class="lang" style="animation-delay:2s">Python</code><code class="lang" style="animation-delay:2.5s">Java</code><code class="lang" style="animation-delay:3s">Lua</code>
         </div>
     </foreignObject>
 </svg>
