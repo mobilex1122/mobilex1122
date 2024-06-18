@@ -3,7 +3,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 div {
-                    background: linear-gradient(90deg, #121212,#12121200);
+                    background: linear-gradient(90deg, #0d1117,#12121200);
                     padding: 20px 0px;
                     color: #ffffff;
                     font-family: sans;
