@@ -3,16 +3,17 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 div {
-                    background-color: #121212;
-                    padding: 10px 0px;
+                    background: linear-gradient(90deg, #121212,#12121200);
+                    padding: 20px 0px;
                     color: #ffffff;
                     font-family: sans;
                 }
             h1 {
-                padding: 0 10px;
+                margin:0;
+                padding: 10px;
                 font-family: sans;
-                transform: translateX(10%);
-                animation: showtitle 1s 1s forwards;
+                transform: translateX(20px);
+                animation: showtitle 0.5s 0.5s forwards;
                 opacity:0;
             }
 
@@ -20,10 +21,10 @@
                 padding: 0 10px;
                 font-family: sans;
                 display: inline-block;
-                transform: translateX(100%);
+                transform: translateX(20px);
                 position: relative;
                 opacity:0;
-                animation: showlang 1s forwards;
+                animation: showlang 0.5s forwards ease-out;
                
             }
 
@@ -42,7 +43,7 @@
             }
             </style>
             <h1>Jan Palma</h1>
-            <code class="lang" style="animation-delay:1.5s">JS</code><code class="lang" style="animation-delay:2s">Python</code><code class="lang" style="animation-delay:2.5s">Java</code><code class="lang" style="animation-delay:3s">Lua</code>
+            <code class="lang" style="animation-delay:0.75s">JS</code><code class="lang" style="animation-delay:1s">Python</code><code class="lang" style="animation-delay:1.25s">Java</code><code class="lang" style="animation-delay:1.5s">Lua</code>
         </div>
     </foreignObject>
 </svg>
