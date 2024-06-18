@@ -4,9 +4,8 @@
 - I’m interested in game making
 - I’m currently learning gdscript and python
 
-[Web](http://www.mobilex1122.eu/)
-
-[Image Gallery](https://gallery.mobilex1122.eu/)
+[![Web](./web.png)](http://www.mobilex1122.eu/)
+[![GAllery](./gallery.png)](https://gallery.mobilex1122.eu/)
 
 <!---
 mobilex1122/mobilex1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
