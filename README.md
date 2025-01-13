@@ -1,7 +1,7 @@
 ![Animation](./logo.svg)
 
-[![Web](./web.png)](http://www.mobilex1122.eu/)
-[![Gallery](./gallery.png)](https://gallery.mobilex1122.eu/)
+[![Web](./web.png)](http://janpalma.cz/)
+[![Gallery](./gallery.png)](https://janpalma.cz/gallery)
 [![MAstodon](./mastodon.png)](https://mastodon.social/@mobilex1122)
 
 <a href="https://app.daily.dev/mobilex1122"><img src="https://api.daily.dev/devcards/v2/tT4mMZK7hDxJXw6jtDyNe.png?type=wide&r=eed" width="420" alt="Jan Palma's Dev Card"/></a>
