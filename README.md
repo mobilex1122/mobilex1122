@@ -3,11 +3,11 @@
 </p>
 <p align="center">
   <a href="https://janpalma.cz/?mtm_campaign=social&mtm_source=github">
-    <img src="https://raw.githubusercontent.com/mobilex1122/mobilex1122/refs/heads/main/link-web.svg" height="42"/></a>
+    <img src="https://raw.githubusercontent.com/mobilex1122/mobilex1122/refs/heads/main/link-web.svg" height="42" width="42"/></a>
   <a href="https://janpalma.cz/gallery?mtm_campaign=social&mtm_source=github">
-    <img src="https://raw.githubusercontent.com/mobilex1122/mobilex1122/refs/heads/main/link-gallery.svg" height="42"/></a>
+    <img src="https://raw.githubusercontent.com/mobilex1122/mobilex1122/refs/heads/main/link-gallery.svg" height="42" width="42"/></a>
   <a href="https://mastodon.social/@mobilex1122">
-    <img src="https://raw.githubusercontent.com/mobilex1122/mobilex1122/refs/heads/main/link-mastodon.svg" height="42"/></a>
+    <img src="https://raw.githubusercontent.com/mobilex1122/mobilex1122/refs/heads/main/link-mastodon.svg" height="42" width="42"/></a>
 </p>
 
 ----
