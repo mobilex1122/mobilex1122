@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="-2 -2 18 18">
+    <g fill="none" stroke="black"
+
+       stroke-dasharray="80 20"
+       stroke-dashoffset="10"
+       style="filter: drop-shadow(0px 0px 0.8px #ff00ff)"
+       stroke-linecap="round" stroke-linejoin="round">
+        <path pathLength="100"  d="M7 13.5a6.5 6.5 0 1 0 0-13a6.5 6.5 0 0 0 0 13M.5 7h13" >
+            <animate
+            attributeName="stroke-dashoffset"
+            begin="0s"
+            dur="5s"
+            from="0"
+            to="100"
+            repeatCount="indefinite"
+         />
+        </path>
+        <path
+            pathLength="100" 
+            d="M9.5 7A11.22 11.22 0 0 1 7 13.5A11.22 11.22 0 0 1 4.5 7A11.22 11.22 0 0 1 7 .5A11.22 11.22 0 0 1 9.5 7">
+            <animate
+            attributeName="stroke-dashoffset"
+            begin="0s"
+            dur="5s"
+            from="0"
+            to="100"
+            repeatCount="indefinite"
+         />
+        </path>
+    </g>
+</svg>
