@@ -12,8 +12,10 @@
 
 </p>
 
+----
+<p align="center">
 <a href="https://app.daily.dev/mobilex1122"><img src="https://api.daily.dev/devcards/v2/tT4mMZK7hDxJXw6jtDyNe.png?type=wide&r=p84" width="420" alt="Jan Palma's Dev Card"/></a>
-<a href="https://exercism.org/profiles/mobilex1122"><img src="https://exercism.org/profiles/mobilex1122.jpg" width="420"></a>
+</p>
 
 <!---
 mobilex1122/mobilex1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
