@@ -10,6 +10,11 @@
     <img src="https://raw.githubusercontent.com/mobilex1122/mobilex1122/refs/heads/main/link-mastodon.svg" height="42" width="42"/></a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,haxe,php,lua,cpp"/></a>
+</p>
+
 ----
 <p align="center">
 <!--<a href="https://app.daily.dev/mobilex1122"><img src="https://api.daily.dev/devcards/v2/tT4mMZK7hDxJXw6jtDyNe.png?type=wide&r=p84" width="420" alt="Jan Palma's Dev Card"/></a>-->
